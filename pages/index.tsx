@@ -1,4 +1,4 @@
-import JSONDataChecker from "../components/JSONDataChecker";
+import JSONDataChecker from "../components/JSONDataChecker-new";
 
 export default function Home() {
   return (
